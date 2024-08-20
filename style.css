@@ -3,32 +3,32 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #0d1b2a; /* Azul Escuro */
-    color: #e0e1dd; /* Cinza Claro */
+    background-color: #ffffff; /* Fundo branco */
+    color: #333333; /* Texto em cinza escuro */
 }
 
 header {
-    background-color: #1b4332; /* Verde Escuro */
-    color: #ffffff; /* Branco */
+    background-color: #f4f4f4; /* Cabeçalho em cinza claro */
+    color: #333333; /* Texto em cinza escuro */
     padding: 40px 0;
 }
 
 nav .menu ul.grid li a {
-    color: #e0e1dd; /* Cinza Claro */
+    color: #333333; /* Links do menu em cinza escuro */
 }
 
 nav .logo {
-    color: #ffffff; /* Branco para o logo */
+    color: #333333; /* Logo em cinza escuro */
 }
 
 h1, h2 {
-    color: #ffffff; /* Branco para títulos */
+    color: #333333; /* Títulos em cinza escuro */
 }
 
 section {
     padding: 20px;
     margin: 10px 0;
-    background-color: #415a77; /* Cinza Escuro para fundo das seções */
+    background-color: #f4f4f4; /* Fundo das seções em cinza claro */
     border-radius: 5px;
 }
 
@@ -40,38 +40,38 @@ img {
 }
 
 footer {
-    background-color: #1b4332; /* Verde Escuro */
-    color: #e0e1dd; /* Cinza Claro */
+    background-color: #f4f4f4; /* Rodapé em cinza claro */
+    color: #333333; /* Texto em cinza escuro */
     text-align: center;
     padding: 10px 0;
 }
 
 .button {
-    background-color: #1b4332; /* Verde Escuro */
-    color: #ffffff; /* Branco */
+    background-color: #333333; /* Botões em cinza escuro */
+    color: #ffffff; /* Texto dos botões em branco */
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
 }
 
 .button:hover {
-    background-color: #0d1b2a; /* Azul Escuro ao passar o mouse */
+    background-color: #555555; /* Botões em cinza mais escuro ao passar o mouse */
 }
 
 .grid .card {
-    background-color: #415a77; /* Cinza Escuro para os cards */
-    color: #e0e1dd; /* Cinza Claro dentro dos cards */
+    background-color: #ffffff; /* Fundo dos cards em branco */
+    color: #333333; /* Texto dos cards em cinza escuro */
 }
 
 .grid .card h3 {
-    color: #ffffff; /* Branco para títulos dos cards */
+    color: #333333; /* Títulos dos cards em cinza escuro */
 }
 
 .back-to-top {
-    background-color: #1b4332; /* Verde Escuro para o botão de voltar ao topo */
-    color: #ffffff; /* Branco */
+    background-color: #333333; /* Botão de voltar ao topo em cinza escuro */
+    color: #ffffff; /* Texto do botão em branco */
 }
 
 .back-to-top:hover {
-    background-color: #0d1b2a; /* Azul Escuro ao passar o mouse */
+    background-color: #555555; /* Botão de voltar ao topo em cinza mais escuro ao passar o mouse */
 }
